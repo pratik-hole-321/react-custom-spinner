@@ -16,6 +16,15 @@ function App() {
           <Link to="/usage">Usage</Link>
           <Link to="/gallery">Gallery</Link>
         </nav>
+        <div className="icon">
+          <a
+            target="_blank"
+            href="https://github.com/pratik-hole-321/react-custom-spinner"
+          >
+            Github
+          </a>
+          <a href="https://www.npmjs.com/package/react-custom-spinner">Npm</a>
+        </div>
       </header>
 
       <Routes>
