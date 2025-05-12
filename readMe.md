@@ -12,7 +12,7 @@
 
 Check out the live demo of loaders gallery here:
 
-[Live Demo Link](https://your-demo-link.com)
+[Live Demo Link](https://react-custom-spinner.vercel.app)
 
 ---
 
