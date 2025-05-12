@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  /* background-color: aquamarine; */
+}
+
+.main-section {
+  max-width: 100%;
+  padding: 0;
+}
+.main-section .content {
+  padding-top: 2rem;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 5rem;
+}
+h1 {
+  padding: 1em 0;
+}
+h2 {
+  padding: 1em 0;
+}
+p {
+  padding: 1em;
+  line-height: 1.7rem;
+  color: #646060;
+}
+ul {
+  padding: 1em;
+  line-height: 1.7rem;
+  color: #646060;
+}
+h3 {
+  padding: 1rem;
+}
+
+hr {
+  margin: 1rem 0;
+}
+thead tr th {
+  padding: 1rem;
+}
+tbody tr td {
+  padding: 1rem;
+}
